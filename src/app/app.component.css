@@ -1,0 +1,141 @@
+.column {
+    float: left;
+    width: 500px;
+    padding: 10px;
+    height: 1000px;
+}
+.row {
+    content: "";
+    display: table;
+    clear: both;
+    width:0px;
+    background-color: aquamarine;
+}
+.font th{
+    float:left;
+}
+
+.back{
+    background-color: burlywood;
+}
+body{
+    width: 65%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('../assets/xu.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin : auto=0;
+}
+
+
+
+
+.box{
+
+    width: 660px;
+    height: 210px;
+    background-color: bisque;
+
+}
+.sbox{
+
+    width: 660px;
+    height: 40px;
+    background-color: bisque;
+    margin-top: 50px;
+
+}
+
+.rightbox{   
+
+    width: 300px;
+    height: 1000px;
+    background-color: rgb(196, 194, 189);
+    margin-top: -300px;
+    margin-left: 700px;
+
+}
+
+.infor{
+
+    margin-top: -700px;
+    width:660px;
+    height:700px;
+    background-size:cover;
+    background-color :peru;
+}
+
+.image{
+  
+    border-radius:100px;
+
+    margin-left: 70px;
+}
+.font th{
+    float: left;
+    
+}
+
+.contact{
+    height:30px;
+    width:250px;
+    margin:20px;
+    background-color: white;
+    
+}
+
+.education{
+    height:30px;
+    width:250px;
+    margin:20px;
+    background-color:white;
+    
+}
+
+
+
+i {
+    padding-left: 15%;
+}
+
+small{
+    padding-left: 80%;
+    font-weight: bold;
+
+}
+
+p{
+    padding-left: 15%;
+}
+
+.skills{
+    height:30px;
+    width:250px;
+    margin:20px;
+    background-color:white;
+    
+}
+.line{
+    margin-inline-start: 30%;
+    margin-inline-end: 38%;
+}
+
+.name{
+    padding-left: 30%;
+    position: relative;
+    top:10%;
+}
+.app{
+    padding-left:35%;
+    position: relative;
+    bottom: 30%;
+}
+.Experience{
+    padding-left:35%;
+}
+.Soweto{
+    position: relative;
+    bottom:30%;
+}
